@@ -1,0 +1,16 @@
+Package: meaganOR
+Type: Package
+Title: OR and 95% Confidence Interval Calculator
+Version: 0.1.0
+Author: Meagan Lacroix
+Maintainer: Meagan Lacroix <meaganlacroix@alumni.trentu.ca>
+Description: Contains a function that returns the odds ratios and 95% confidence intervals from a vector of coefficient estimates and a vector of standard errors.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
